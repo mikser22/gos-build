@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gos-build/static/css/main.9485fc67.css",
-    "main.js": "/gos-build/static/js/main.0037a513.js",
+    "main.css": "/gos-build/static/css/main.a4971cda.css",
+    "main.js": "/gos-build/static/js/main.6afe91b8.js",
     "index.html": "/gos-build/index.html",
-    "main.9485fc67.css.map": "/gos-build/static/css/main.9485fc67.css.map",
-    "main.0037a513.js.map": "/gos-build/static/js/main.0037a513.js.map"
+    "main.a4971cda.css.map": "/gos-build/static/css/main.a4971cda.css.map",
+    "main.6afe91b8.js.map": "/gos-build/static/js/main.6afe91b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9485fc67.css",
-    "static/js/main.0037a513.js"
+    "static/css/main.a4971cda.css",
+    "static/js/main.6afe91b8.js"
   ]
 }
