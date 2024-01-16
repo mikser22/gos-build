@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gos/static/css/main.4bad9543.css",
+    "main.js": "/gos/static/js/main.90ce8f13.js",
+    "index.html": "/gos/index.html",
+    "main.4bad9543.css.map": "/gos/static/css/main.4bad9543.css.map",
+    "main.90ce8f13.js.map": "/gos/static/js/main.90ce8f13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bad9543.css",
+    "static/js/main.90ce8f13.js"
+  ]
+}
